@@ -1,10 +1,9 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)
+
 <h1 align="center">Stewart Wan (nice1stu)</h1>
 <h3 align="center">Hi there, I'm a passionate game programming student on a journey to become a skilled game programmer. I'm currently pursuing my education in game development.</h3>
-<img align="right" alt="Coding" width="400" src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xMDc1ODQ3MS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTcxMTg5NjYxM30.Kv5Y5RGcUhMygx1BPcRrYmIIT2sF9dHiYjiMlOFUXFw/img.gif?width=890&quality=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nice1stu&label=Profile%20views&color=0e75b6&style=flat" alt="nice1stu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nice1stu" alt="nice1stu" /></a> </p>
 
 - 🔭 I’m currently working on [EndlessRunner (mobile game)](https://github.com/forsbergsskola-se/EndlessRunner)
 
