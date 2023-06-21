@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nice1stu&label=Profile%20views&color=0e75b6&style=flat" alt="nice1stu" /> </p>
 
-- 🔭 I’m currently working on Unreal Engine 5.2 Animation Blueprints (https://github.com/forsbergsskola-se/EndlessRunner)
+- 🔭 I’m currently working on Unreal Engine 5.2 Animation Blueprints ([https://github.com/forsbergsskola-se/302-specialization-track-nice1stu])
 
-- 🌱 I’m currently learning **Mobile Game Advertising & In App purchasing**
+- 🌱 I’m currently learning **Unreal Engine 5.2 Animation Blueprints, BlendSpace, Montage**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nice1stu?tab=repositories](https://github.com/nice1stu?tab=repositories)
 
-- 💬 Ask me about **C#, Unity, C++**
+- 💬 Ask me about **C#, Unity, C++, Unreal Engine 5.2**
 
 - 📫 How to reach me **nice1stu@gmail.com**
 
