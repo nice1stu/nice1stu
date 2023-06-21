@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nice1stu&label=Profile%20views&color=0e75b6&style=flat" alt="nice1stu" /> </p>
 
-- 🔭 I’m currently working on [EndlessRunner (mobile game)](https://github.com/forsbergsskola-se/EndlessRunner)
+- 🔭 I’m currently working on Unreal Engine 5.2 Animation Blueprints (https://github.com/forsbergsskola-se/EndlessRunner)
 
 - 🌱 I’m currently learning **Mobile Game Advertising & In App purchasing**
 
