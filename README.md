@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Stewart Wan (nice1stu)</h1>
-<h3 align="center">Hi there, I'm a passionate gameer on a journey to become a skilled game programmer. I'm currently pursuing my education in game programming.</h3>
+<h3 align="center">Hi there, I'm a passionate gamer on a journey to become a skilled game programmer. I'm currently pursuing my education in game programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nice1stu&label=Profile%20views&color=0e75b6&style=flat" alt="nice1stu" /> </p>
 
