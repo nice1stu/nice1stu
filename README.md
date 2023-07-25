@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nice1stu&label=Profile%20views&color=0e75b6&style=flat" alt="nice1stu" /> </p>
 
-- 🔭 I’m currently working on Unreal Engine 5.2 Animation Blueprints ([https://github.com/forsbergsskola-se/302-specialization-track-nice1stu])
+- 🔭 I’m currently working on Unreal Engine 5.2 C++ ([[https://github.com/forsbergsskola-se/302-specialization-track-nice1stu](https://github.com/nice1stu/GP22_303UnrealCPP)])
 
-- 🌱 I’m currently learning **Unreal Engine 5.2 Animation Blueprints, BlendSpace, Montage**
+- 🌱 I’m currently learning **Unreal Engine 5.2 C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nice1stu?tab=repositories](https://github.com/nice1stu?tab=repositories)
 
