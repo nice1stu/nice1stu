@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nice1stu&label=Profile%20views&color=0e75b6&style=flat" alt="nice1stu" /> </p>
 
-- 🔭 I’m currently working on Art of Thievery, a Stealth Action game in Unreal Engine 5.2 ([[https://github.com/forsbergsskola-se/303-ue-cpp-CoinCollector-nice1stu](https://github.com/forsbergsskola-se/303-ue-cpp-CoinCollector-nice1stu)])
+- 🔭 I’m currently working on Art of Thievery, a Stealth Action game in Unreal Engine 5.2 [(https://github.com/forsbergsskola-se/308-unreal-group-project-stealth-meister)](https://github.com/forsbergsskola-se/308-unreal-group-project-stealth-meister)
 
-- 🌱 I’m currently learning **Unreal Engine 5.2 C++**
+- 🌱 I’m currently learning **Unreal Engine 5.2, specifically Animation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nice1stu?tab=repositories](https://github.com/nice1stu?tab=repositories)
 
