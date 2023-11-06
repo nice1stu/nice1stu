@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nice1stu&label=Profile%20views&color=0e75b6&style=flat" alt="nice1stu" /> </p>
 
-- 🔭 I’m currently working on MeadowVille Tester, A Top Down 3D Mechanic testing project for upcoming group project [(https://github.com/nice1stu/MeadowvilleTester)](https://github.com/nice1stu/MeadowvilleTester)
+- 🔭 I’m currently working on MeadowVille, A Top Down 3D cozy farming game set in a fantasy world as part of the team that brought to you Art of Thievery: A Silent Heist [(https://github.com/hildurhanna/Meadowville)](https://github.com/hildurhanna/Meadowville)
 
 - 🌱 I’m currently learning **Unreal Engine 5.3, focussing specifically on C++**
 
